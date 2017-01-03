@@ -12,3 +12,5 @@ Any live cell with two or three live adjecent lives on to the next generation.
 Any live cell with more than three live adjecent dies.
 Any dead cell with exactly three live adjecent becomes a live cell.
 
+More info:
+https://en.wikipedia.org/wiki/Conway's_Game_of_Life
